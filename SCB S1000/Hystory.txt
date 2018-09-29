@@ -1,7 +1,0 @@
-W42Y2010 - 	First PCB
-		PCB Designed in Imperial Units
-
-W24Y2011 - 	Updated PCB
-		No funtionality or electrical changes
-		PCB Designed in Metric Units
-		DFM change, factory change (SeeedStudio).
